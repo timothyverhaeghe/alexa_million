@@ -1,0 +1,12 @@
+{
+  "name": "alexa_million",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "commander": "^2.11.0",
+    "csv2": "^0.1.1",
+    "fs": "0.0.1-security",
+    "request": "^2.81.0",
+    "unzip": "^0.1.11"
+  }
+}
